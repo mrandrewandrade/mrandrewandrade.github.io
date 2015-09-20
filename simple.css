@@ -1,0 +1,64 @@
+body {
+    font-family: georgia;
+    margin: 50px;
+    width: auto;
+}
+h1 {
+    font-size: 65px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: normal;
+    margin: 0px 0px 10px 0px;
+}
+
+h2 a {
+    text-decoration: none;
+}
+p {
+    color: #666;
+    font-size: 16px;
+    line-height: 180%;
+}
+li {
+    line-height: 150%;
+    list-style-type: square;
+}
+a:link, a:visited {
+    color: #000000;
+    text-decoration:none;
+}
+a:hover, a:active {
+    background: none repeat scroll 0 0 #000000;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+div.footnotes {
+    border-top: 1px solid #EEEEEE;
+}
+div.footnotes p {
+    color: #555555;
+    font-size: 14px;
+    line-height: 150%;
+}
+div.footnotes p:first-letter {
+    margin-left: -10px;
+}
+div.footnotes a:link, div.footnotes a:visited {
+    color: #666666;
+}
+div.footnotes a:hover, div.footnotes a:active {
+    color: #EEEEEE;
+}
+body.archive h1 {
+    font-size: 70px;
+    margin: 0;
+}
+body.archive p.home {
+    margin: 0;
+}
+h1.hello {
+    margin-top: 100px;
+}
