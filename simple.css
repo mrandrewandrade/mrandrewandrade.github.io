@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&display=swap');
+
 body {
     font-family: sans-serif;
     margin: 50px;
@@ -18,9 +20,9 @@ h2 a {
     text-decoration: none;
 }
 .amp {
-    font-family: Baskerville, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+    font-family: "Libre Baskerville", Baskerville, Georgia, serif;
     font-style: italic;
-    font-weight: normal;
+    font-weight: 400;
     font-size: 1.08em;
 }
 .comment {
