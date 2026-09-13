@@ -17,13 +17,6 @@ h2 {
 h2 a {
     text-decoration: none;
 }
-.amp {
-    display: inline-block;
-    width: 0.92em;
-    height: 0.92em;
-    margin-right: 0.02em;
-    vertical-align: -0.08em;
-}
 .comment {
     color: #666666;
 }
