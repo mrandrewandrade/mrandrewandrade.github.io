@@ -1,13 +1,13 @@
 # Andrew Andrade
 
-**Teacher // Engineer // Learner**  
-Mississauga, Ontario, Canada  
+**Teacher // Learner // Engineering & Technology**  
+Ontario, Canada  
 [LinkedIn](https://www.linkedin.com/in/andrewandrade) // [GitHub](https://github.com/mrandrewandrade/mrandrewandrade.github.io)  
-Contact: `firstName @ firstNameLastName.ca`
+Contact: `firstName@thisURL.ca`
 
 ## Profile
 
-Teacher and engineer with experience spanning computer engineering, AI and machine learning, robotics, data science, hardware, manufacturing, applied research, entrepreneurship, and technical leadership. I currently teach technology in public secondary school after more than seven years at Palantir working across data science, machine learning, data engineering, and analytics leadership.
+Teacher whose work has spanned engineering, computer engineering, AI and machine learning, robotics, data science, hardware, manufacturing, applied research, entrepreneurship, and technical leadership. I currently teach technology in public secondary school after more than seven years at Palantir working across data science, machine learning, data engineering, and analytics leadership.
 
 ## Experience
 
@@ -32,13 +32,13 @@ Worked on autonomous electric bicycles and mobility-on-demand research.
 Co-founded a machine-learning startup focused on pipeline and asset risk. Won multiple startup competitions and deployed a risk-modeling solution with an industrial client.
 
 **Earlier engineering work**  
-Hardware manufacturing at Facebook, embedded software and hardware at Peraso, reservoir engineering at Suncor, manufacturing/R&D at Imtex, automotive manufacturing at Chrysler, and machining/CNC work at Cantech Tool & Machine.
+Worked in hardware manufacturing at Facebook, embedded software and hardware at Peraso, reservoir engineering at Suncor, manufacturing/R&D at Imtex, automotive manufacturing at Chrysler, and machining/CNC at Cantech Tool & Machine.
 
 ## Selected Accomplishments
 
 - Sole inventor, **U.S. Patent 12,542,860**, *Systems and Methods for Converting a Raster Image into a Plurality of Vectors* (granted 2026).
 - Co-inventor, **U.S. Patent 9,577,340**, *Waveguide Adapter Plate to Facilitate Accurate Alignment of Sectioned Waveguide Channel in Microwave Antenna Assembly* (granted 2017).
-- Named **Canada's Best Co-op Student of the Year** for 2014 and received the Emery-Dufault Award for contributions to co-operative education.
+- Named **Best Overall Canadian Co-op Student (Intern) of the Year 2014** and received the Emery-Dufault Award for contributions to co-operative education.
 - Won the University of Waterloo **Velocity Fund Finals** and the Ontario Centres of Excellence **David McFadden Energy Entrepreneur Challenge** with PetroPredict.
 - Won the **Open Compute Project / Facebook Hardware Hackathon**.
 - Placed third in the Society of Petroleum Engineers Canada-wide student research competition for work applying artificial intelligence to oil-field analysis.
@@ -47,9 +47,9 @@ Hardware manufacturing at Facebook, embedded software and hardware at Peraso, re
 
 ## Education
 
-**University of Waterloo** - Mechatronics Engineering, 2011-2016  
-**National University of Singapore** - Engineering exchange, 2015
+**University of Waterloo** - Mechatronics Engineering  
+**National University of Singapore** - Engineering exchange
 
 ## Areas of Practice
 
-Teaching // AI & machine learning // data science // robotics & control // software & data engineering // manufacturing // hardware // technical leadership // applied research
+Teaching // engineering // AI & machine learning // data science // robotics & control // software & data engineering // manufacturing // hardware // technical leadership // applied research
