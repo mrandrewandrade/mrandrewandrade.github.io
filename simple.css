@@ -17,6 +17,15 @@ h2 {
 h2 a {
     text-decoration: none;
 }
+.amp {
+    font-family: Baskerville, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 1.08em;
+}
+.comment {
+    color: #666666;
+}
 h3 {
     font-size: 20px;
     font-weight: bold;
